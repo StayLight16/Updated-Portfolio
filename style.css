@@ -1,0 +1,62 @@
+h1#jumboName {
+   font-weight: bold;
+  }
+
+  .lead {
+      font-weight: 700;
+  }
+
+  #aboutMePic {
+      height: 195px;
+      width: 200px;
+  }
+
+  .skills {
+      font-weight: 700;
+      text-align: center;
+      font-weight: bold;
+  }
+
+  .aboutH1 {
+        text-align: center;
+  }
+
+  .frontEnd {
+      float: left;
+  }
+
+  .portfolioH1 {
+      text-align: center;
+      text-decoration: underline
+  }
+
+  .card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}
+
+.CardsOnButtons:hover {
+    background-color: rgb(202, 140, 46);
+}
+
+body {
+    background-color: rgba(161, 160, 83, 0.959);
+    font-family: 'Gill Sans', sans-serif; 
+}
+
+h4 {
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+#ContactMeHeader {
+    text-align: center;
+    font-weight: bold;
+}
+
+.buttonsforcontacts {
+    display: flex;
+    justify-content: center;
+}
+
